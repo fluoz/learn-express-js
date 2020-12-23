@@ -1,0 +1,11 @@
+{
+    "Dev": {
+        "username": "root",
+        "password": "",
+        "database":"api_pusher",
+        "host":"127.0.0.1",
+        "dialect":"mysql",
+        "operatorsAliases": false,
+        "timezone":"Asia/Jakarta"
+    }
+}
